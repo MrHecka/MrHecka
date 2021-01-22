@@ -1,16 +1,19 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://avatars.githubusercontent.com/u/71875420?s=400&u=5c417305130d96788de7e5add2627c32c236cfd9&v=4"><img src="https://avatars.githubusercontent.com/u/71875420?s=400&u=5c417305130d96788de7e5add2627c32c236cfd9&v=4" alt="Banner MrHecka"></a>
+</p>
 
-<!--
-**MrHecka/MrHecka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Halo, Saya <a href="https://github.com/MrHecka">MrHecka</a>!</h1>
+<h1 align="center">Selamat Datang Di Profil Github MrHecka~ UwU</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/MrHecka"><img src="https://github-readme-stats.vercel.app/api?username=MrHecka&hide_border=true&show_icons=true" alt="MrHecka Github Stats"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <strong><a href="https://www.instagram.com/anone14_/">Instagram</a></strong> |
+  <strong><a href="https://www.facebook.com/MrHecka/">Facebook</a></strong> |
+  <strong><a href="https://twitter.com/heckabinary">Twitter</a></strong> |
+  <strong><a href="https://www.twitch.tv/hecka014">Twitch</a></strong>
+</p>
+
+<p align="center">❤ Semoga Hari-Harimu Menyenangkan~ ❤</p>
