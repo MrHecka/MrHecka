@@ -10,6 +10,7 @@ ___
 
 <p align="center">
   <a href="https://github.com/MrHecka"><img src="https://github-readme-stats.vercel.app/api?username=MrHecka&hide_border=true&show_icons=true" alt="MrHecka Github Stats"></a>
+![Bahasa Yang Dipelajari](https://github-readme-stats.vercel.app/api/top-langs/?username=MrHecka&count_private=true&show_icons=true)
 </p>
 
 <p align="center">
@@ -22,8 +23,6 @@ ___
 
 ### About Me ⚠️
 ___
-
-![Bahasa Yang Dipelajari](https://github-readme-stats.vercel.app/api/top-langs/?username=MrHecka&count_private=true&show_icons=true)
 
 :page_with_curl: Yang sedang kupelajari:
 - Javascript
