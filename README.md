@@ -19,16 +19,20 @@ ___
   <strong><a href="https://www.twitch.tv/hecka014">Twitch</a></strong>
 </p>
 
-<p align="center">
-:page_with_curl: Yang sedang ku pelajari >
-<b>| Javascript</b>
-<b>| Python</b>
-</p>
 
 ### About Me ⚠️
 ___
 
 ![MrHecka Github Stats](https://github-readme-stats.vercel.app/api?username=MrHecka&layout=compact&theme=tokyonight)
 ![Bahasa Yang Dipelajari](https://github-readme-stats.vercel.app/api/top-langs/?username=MrHecka&count_private=true&show_icons=true&theme=tokyonight)
+
+:page_with_curl: Yang sedang kupelajari:
+- Javascript
+- Python
+
+:star: Ini adalah proyek yang sedang & sudah kukerjakan:
+- [Heckayo Bot Telegram](https://github.com/MrHecka/heckayo-bot-telegram)
+- [Heckayo Bot Whatsapp](https://wa.me/6285335085631)
+- [Perhitungan Azimuth & Elevasi](https://github.com/MrHecka/Azimuth-Elevasi-Python)
 
 <p align="center">❤ Semoga Hari-Harimu Menyenangkan~ ❤</p>
