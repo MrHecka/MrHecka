@@ -1,6 +1,9 @@
 <p align="center">
-  <a href="https://avatars.githubusercontent.com/u/71875420?s=400&u=5c417305130d96788de7e5add2627c32c236cfd9&v=4"><img src="https://avatars.githubusercontent.com/u/71875420?s=400&u=5c417305130d96788de7e5add2627c32c236cfd9&v=4" alt="Banner MrHecka"></a>
+  <a href="https://github.com/MrHecka"><img src="bebetter.jpg" alt="Banner MrHecka"></a>
 </p>
+
+### My Profile's 😎
+___
 
 <h1 align="center">Halo, Saya <a href="https://github.com/MrHecka">MrHecka</a>!</h1>
 <h1 align="center">Selamat Datang Di Profil Github MrHecka~ UwU</h1>
