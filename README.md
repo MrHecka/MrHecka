@@ -29,6 +29,7 @@ ___
 :page_with_curl: Yang sedang kupelajari:
 - Javascript
 - Python
+- HTML
 
 :star: Ini adalah proyek yang sedang & sudah kukerjakan:
 - [Heckayo Bot Telegram](https://github.com/MrHecka/heckayo-bot-telegram)
