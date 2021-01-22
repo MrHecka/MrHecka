@@ -6,7 +6,7 @@
 ___
 
 <h1 align="center">Halo, Saya <a href="https://github.com/MrHecka">MrHecka</a>!</h1>
-<h1 align="center">Selamat Datang Di Profil Github MrHecka~ UwU</h1>
+<h1 align="center">Selamat Datang Di Profil Github Saya~ UwU</h1>
 
 <p align="center">
   <a href="https://github.com/MrHecka"><img src="https://github-readme-stats.vercel.app/api?username=MrHecka&hide_border=true&show_icons=true" alt="MrHecka Github Stats"></a>
