@@ -20,9 +20,9 @@ ___
 </p>
 
 <p align="center">
-:page_with_curl: Yang sedang ku pelajari:
-- Javascript
-- Python
+:page_with_curl: Yang sedang ku pelajari |
+|Javascript
+|Python
 </p>
 
 ### About Me ⚠️
