@@ -23,8 +23,7 @@ ___
 ### About Me ⚠️
 ___
 
-![MrHecka Github Stats](https://github-readme-stats.vercel.app/api?username=MrHecka&layout=compact&theme=tokyonight)
-![Bahasa Yang Dipelajari](https://github-readme-stats.vercel.app/api/top-langs/?username=MrHecka&count_private=true&show_icons=true&theme=tokyonight)
+![Bahasa Yang Dipelajari](https://github-readme-stats.vercel.app/api/top-langs/?username=MrHecka&count_private=true&show_icons=true)
 
 :page_with_curl: Yang sedang kupelajari:
 - Javascript
