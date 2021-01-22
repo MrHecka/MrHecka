@@ -19,9 +19,11 @@ ___
   <strong><a href="https://www.twitch.tv/hecka014">Twitch</a></strong>
 </p>
 
+<p align="center">
 :page_with_curl: Yang sedang ku pelajari:
 - Javascript
 - Python
+</p>
 
 ### About Me ⚠️
 ___
