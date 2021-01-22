@@ -16,4 +16,11 @@
   <strong><a href="https://www.twitch.tv/hecka014">Twitch</a></strong>
 </p>
 
+
+### About Me ⚠️
+___
+
+![MrHecka Github Stats](https://github-readme-stats.vercel.app/api?username=MrHecka&layout=compact&theme=tokyonight)
+![Bahasa Yang Dipelajari](https://github-readme-stats.vercel.app/api/top-langs/?username=MrHecka&count_private=true&show_icons=true&theme=tokyonight)
+
 <p align="center">❤ Semoga Hari-Harimu Menyenangkan~ ❤</p>
