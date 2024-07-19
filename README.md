@@ -30,8 +30,10 @@ ___
 - HTML
 
 :star: Ini adalah proyek yang sedang & sudah kukerjakan:
+
+- [API Ungu](https://github.com/MrHecka/api-ungu)
+- [CRWL Tools](https://github.com/MrHecka/crwl-tools)
+- [Bot-Khaer](https://github.com/MrHecka/Bot-Khaer)
 - [Heckayo Bot Telegram](https://github.com/MrHecka/heckayo-bot-telegram)
-- [Heckayo Bot Whatsapp](https://wa.me/6285335085631)
-- [Perhitungan Azimuth & Elevasi](https://github.com/MrHecka/Azimuth-Elevasi-Python)
 
 <p align="center">❤ Semoga Hari-Harimu Menyenangkan~ ❤</p>
